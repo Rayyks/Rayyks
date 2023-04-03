@@ -13,8 +13,6 @@
 <br>
 🎼👨‍🎨 I love painting, music, and others.
 <br>
-
-<br>
 📕 I like reading
 <br>
 🏞 And i love nature
