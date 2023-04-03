@@ -9,8 +9,15 @@
 
 
 # 💫 About Me:
-I really like exploring the world of programming<br>I love painting, music, and others.<br>
+👨‍💻 I really like exploring and learning the world of programming
+<br>
+🎼👨‍🎨 I love painting, music, and others.
+<br>
 
+<br>
+📕 I like reading
+<br>
+🏞 And i love nature
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rayy__dna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rayyand) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rayyks) 
