@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! My name is Rayyand Kananda Syahputra and I'm a Frontend Developer.</h2>
+<h3 align="center">Hello There <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  />!</h3>
+
+<h1>Im Rayyand Kananda Syahputra, a Frontend Developer</h1>
+
 
 ###
 
