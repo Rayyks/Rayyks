@@ -1,6 +1,6 @@
 <h3>Hello There <img height="50" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  />!</h3>
 
-<h1>Im Rayyand Kananda Syahputra, a Frontend Developer</h1>
+<h1>Im Rayyand Kananda Syahputra</h1>
 
 
  <p align="center">
