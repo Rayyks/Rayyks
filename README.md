@@ -25,7 +25,7 @@
 
 
 ### ✍️ lil bit quote.
-![]If you wanna win the lottery, you have to make the money to buy a ticket. fav motto form NightCrawler
+![](If you wanna win the lottery, you have to make the money to buy a ticket. fav motto form NightCrawler)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
