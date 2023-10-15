@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayyand Kananda Syahputra</h1>
 <h3 align="center">The Man of Chaotic and Logical Ideas</h3>
 
-- 👨‍💻 All of my projects are available at [my portfolio]([my portfolio](https://rayydna-7e08a.web.app/))
+- 👨‍💻 All of my projects are available at([my portfolio](https://rayydna-7e08a.web.app/))
 
 - 💬 Ask me about **React, Tailwind, Three.js, Gsap**
 
