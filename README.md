@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rayyls/Rayyls/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rayyks/Rayyks/output/snake.svg" alt="Snake animation" />
 
 ###
 
