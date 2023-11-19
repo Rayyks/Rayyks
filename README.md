@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://media.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif"  />
+  <img height="400" src="https://media.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif"  />
 </div>
 
 ###
