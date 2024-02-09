@@ -6,7 +6,7 @@
 - 🌐 **Learning**: Next.Js, Redux, Gsap, Three.js
 - 💻 **Portfolio**: [rayyandkananda.vercel.app](rayyandkananda.vercel.app)
 - 📫 **Contact**: rayydna14@gmail.com
-- 🚀 **Experiences**: [rayyandkananda.vercel.app](rayyandkananda.vercel.app)
+- 🚀 **Experiences**: 3 Years working in Frontend Developer role
 
 ## Connect in the Cybernetic Matrix 🌐:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>](https://twitter.com/rayy__and) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>](https://instagram.com/rayy__dna)
