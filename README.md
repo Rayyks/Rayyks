@@ -5,7 +5,7 @@
 
 ## Current Cybernetic Enhancements:
 - 🌐 **Learning**: Next.Js, Redux, Gsap, Three.js
-- 💻 **Portfolio**: [rayyandkananda.vercel.app](rayyandkananda.vercel.app)
+- 💻 **Portfolio**: [rayyandkananda.vercel.app](https://rayyandkananda.vercel.app)
 - 📫 **Contact**: rayydna14@gmail.com
 - 🚀 **Experiences**: 3 Years working in Frontend Developer role
 
