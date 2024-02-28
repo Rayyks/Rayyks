@@ -3,7 +3,7 @@
 
 # Yoo! 👋 I'm Rayyand Kananda
 
-## Current Cybernetic Enhancements:
+## Check this out:
 - 🌐 **Learning**: Next.Js, Redux, Gsap, Three.js
 - 💻 **Portfolio**: [rayyandkananda.vercel.app](https://rayyandkananda.vercel.app)
 - 📫 **Contact**: rayydna14@gmail.com
