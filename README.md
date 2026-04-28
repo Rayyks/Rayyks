@@ -104,43 +104,6 @@ life_motto: "If it can be imagined, it can be built."
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayyandkananda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyandkananda&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rayyandkananda&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌊 Contribution Graph
-
-<div align="center">
-
-[![Rayyand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayyandkananda&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayyandkananda&theme=tokyonight&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📫 Let's Connect & Build Something Great
 
 <div align="center">
@@ -154,12 +117,41 @@ life_motto: "If it can be imagined, it can be built."
 
 ---
 
+## ⚙️ Currently Compiling...
+
+```bash
+$ whoami
+> rayyand_kananda
+
+$ skills --list
+> [frontend] [design] [IT] [creative] [editorial] [admin]
+
+$ experience --years
+> 5+ years and still pushing commits
+
+$ status
+> available_for_work: true
+> open_to_collab:     true
+> currently_learning: ["Next.js", "GSAP", "Three.js", "Redux"]
+
+$ motto --print
+> "If it can be imagined, it can be built."
+
+$ exit
+> see you on the other side 👾
+```
+
+---
+
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rayyandkananda&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=rayyandkananda&style=flat-square&color=00D9FF&label=eyes+on+profile)
 
-### ⚡ *"I don't just write code — I craft experiences."*
-
-![Snake animation](https://github.com/rayyandkananda/rayyandkananda/blob/output/github-contribution-grid-snake-dark.svg)
+```
+╔══════════════════════════════════════════╗
+║   thanks for scrolling this far  /\_/\  ║
+║   let's build something legendary  >^<  ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
